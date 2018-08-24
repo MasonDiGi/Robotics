@@ -1,0 +1,130 @@
+article {
+	padding 10px 10px 10px 10px;
+}
+
+body {
+	background: #ffe62f;
+}
+
+form {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+header {
+	background: #1aa3ff;
+	padding: 10px 10px 0 10px;
+	color: white;
+	font-family: “times new roman”;
+	text-align: center;
+	border-radius: 15px 15px 15px 15px;
+	margin: 2%;
+	padding: 20px 0 0 0;
+}
+
+
+
+
+
+.text {
+	margin: 5px 5px 5px 5px;
+	list-style-type: none;
+}
+
+.title {
+	font-size: 45px;
+	color: white;
+}
+
+.col-md-4 {
+	margin-top: 1%;
+}
+
+
+ul.text li {
+	padding: 20px 20px 20px 20px;
+}
+
+
+ul.title {
+	font-size: 100%;
+	font-family: "Times New Roman";
+	align: center;
+}
+
+
+
+
+.text .title {
+	font-size: 25px;
+}
+
+
+
+
+
+
+
+/*Main Page*/
+
+#byline {
+	font-size: 20px;
+	color: black;
+	margin: 20px;
+	margin-left: 10%;
+	font-family: "Times New Roman";
+}
+
+#intro {
+        border-radius: 15px 15px 15px 15px;
+	background: #1aa3ff;
+	margin: 0 15px 0 15px;
+	margin-bottom: 2%;
+	font-size: 30px;
+        color: white;
+        font-family: "Times New Roman";
+}
+
+/*About Page*/
+#about li {
+	background: #1aa3ff;
+	margin: 15px;
+	border-radius: 70px;
+	color: white;
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+
+/*Contact Page*/
+#contact {
+	color: white;
+	background: #1aa3ff;
+	border-radius: 15px;
+	font-family: "Times New Roman";
+}
+
+/*FAQ Page*/
+#FAQ ul {
+	background: #1aa3ff;
+	border-radius: 15px;
+	color: white;
+	margin-right: 50px;
+	font-family: "Times New Roman";
+}
+
+#nav-links li:hover {
+	background: black;
+	color: white;
+}
+
+#homePictures {
+}
+
+ul #alumni_start {
+	text-align: center;
+	margin: auto;
+	width: 70%;
+}

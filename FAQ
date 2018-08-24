@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+	<title>Long Hill F.O.R.C.E. Robotics</title>
+	<!-- Latest compiled and minified CSS -->
+	<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" rel="stylesheet" /><!-- Optional theme -->
+	<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" rel="stylesheet" />
+	<link href="Main.css" rel="stylesheet" />
+	<link href="https://www.vexrobotics.com/skin/frontend/rwd/vex/images/favicon/vexiq.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+<body>
+<header>
+<div class="container">
+<nav class="navbar navbar-default">
+<div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header"><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand" href="/">Long Hill F.O.R.C.E Robotics</a></div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+	<li><a href="gallery">Photo Gallery</a></li>
+	<li><a href="about">About us</a></li>
+	<li><a href="contact">Contact Us</a></li>
+	<li><a href="FAQ">FAQs</a></li>
+	<li><a href = "alumni">Alumni</a></li>
+	<li><a href="http://forum.lhforcerobotics.com">Our Forum</a></li>
+	<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">External Links </a>
+	<ul class="dropdown-menu">
+		<li><a href="https://www.vexrobotics.com/vexiq">VEX IQ Website</a></li>
+		<li><a href="http://www.vexiqforum.com">VEX IQ Forum</a></li>
+		<li class="divider" role="separator"></li>
+		<li><a href="http://www.longhill.org">Long Hill School Website</a></li>
+		<li><a href="http://www.longhillnj.gov/">Our Town Website</a></li>
+	</ul>
+	</li>
+</ul>
+</div>
+<!-- /.navbar-collapse --></div>
+<!-- /.container-fluid --></nav>
+
+<h1 class="title" style="text-align: center;">FAQs</h1>
+</div>
+
+
+</header>
+<ul class=text id="FAQ">
+	<ul class=title>Where are you located?
+		<li class=text>Our robotics club is located on Bebout Ave in Stirling New Jersey, 07980. For more information on location, visit the Contact Us page.</li>
+		</ul>
+	<ul class=title>How can I join the robotics club?
+		<li class=text>If you live in the area and are interested in joining the robotics club, then you can contact us at lhforcerobotics@gmail.com under the subject of registration.</li>
+		</ul>
+	<ul class=title>When are your hours?
+		<li class=text>We have classes on Wednesday from 5:00-7:00pm (EST), Friday from 5:00-7:00pm (EST), and an optional class on Sunday from 6:00-8:00pm (EST).</li>
+		</ul>
+	<ul class=title>Where can I ask other questions?
+		<li class=text>You can visit the Long Hill robotics forums to ask any other questions or comments and read what others have to say. We will try to respond as soon as possible.</li>
+		</ul>
+	<ul class=title>What program did you use to create this website?
+		<li class=text>This site was coded only using HTML5(The text and sections), CSS(Styling and formatting) and boostrap(Included some buttons for the navbar at the top[^]), and the forum uses SMF, but we changed the CSS.</li>
+		</ul>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<!-- Latest compiled and minified JavaScript --> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script></p>
+
+</body>
+</html>
